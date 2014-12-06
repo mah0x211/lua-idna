@@ -5,6 +5,11 @@ libidn bindings for lua.
 
 ---
 
+## Dependencies
+
+- libidn: http://www.gnu.org/software/libidn/
+
+
 ## Installation
 
 ```sh
